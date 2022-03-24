@@ -1,12 +1,10 @@
-### Hi there 👋
-
 # Michael Metcalf
 
-![My's Stats](https://github-readme-stats.vercel.app/api?username=Metty82&show_icons=true&theme=blue-green)
+[![My's Stats](https://github-readme-stats.vercel.app/api?username=Metty82&show_icons=true&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Metty82)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Metty82&layout=compact&langs_count=6)](https://github.com/anuraghazra/github-readme-stats)
 
 ![](https://img.shields.io/badge/Developer-Node-informational?style=flat&logo=node.js&logoColor=68a063&color=68a063) 
 ![](https://img.shields.io/badge/Developer-React-informational?style=flat&logo=react&logoColor=00ffff&color=00ffff)
